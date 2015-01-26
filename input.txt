@@ -1,0 +1,19 @@
+#Мышь
+#Переферия
+#Компьютернаятехника
+
+Мышь беспроводная Logitech
+модель такая-то сериятакая-то, это продолжение заголовка если что :)
+
+Включил и забыл – главный принцип компактной лазерной мышки Logitech M705.
+Вам достаточно лишь один раз вставить USB-ресивер в порт…
+Примечание: основной текст тоже может быть многострочный и содержать в себе разрыв строки (\n\n)
+
+например как тут
+и ссылки например http://google.com, которые распарсивать не нужно, так же если вдруг в тексте будет случайно со словом стоять
+символ #шарп это не хештег.
+Бывает что в url-лах попадается символ #
+например http://example.com/asd#zxc-12 и url неправильно парсится это тоже надо предусмотреть
+ниже собственно идёт url
+
+http://market-click2.yandex.ru/redir/GAkkM7lQwz6kEtXSvIPZ1j8rkSGB_y8MWNo2eVERvwRIw-OFwlsH_7hK29A2q6zuBpj0JOCjymD5BxtuMXb7ngPKlc7mGJYiQnVNHwes3WQpEJQJYEt0WoHphIiTyvVO41xslfcS8ilzicc4Y41HuX7cX3ZJovjAR_5w7rv6GyfVkeXzTGlMdT31rAJ-v4yRawvulLQ0Nu1VdZjKmOeudxzaM1-kq1UpjKA-WHFTK5ujFzCVTIRlO3yNxdcLUFArvSsJ2oRxCkToPAK5P60MUcibO3ggtHBr7FwHqNBTViwNDB4uc51RrKuSfTeN_EsDTLMjcV7EITIt6tic-vnqOvvmUIRwmPdOfGkqrFgTL_UKqxSOLNW3B1ZeSVrgK-OXcYlMMxkH9k5LoUzsMPX0fuCEHMsPwIRHRpe9xC1jni2DmSgJKMgGH0m_C_Jv0ZeLZBodKnchs1iUVnwa_oWXecqQfTqPNK7iPsQVTvCJP_w?data=QVyKqSPyGQwwaFPWqjjgNgfwJ1WOc_ltniAZK2IDaXRUEhhJzQr23YHqRkT5APbaA5ItMTSYKyRH-2nphzYUgBRZ1_I22sW8-n2JzXOdxJPLVzuE4jKWI-rQNTCIKn3bL3AqzmJhZPgWSIAq6tXng0EKbynZJ7X0ubWTWXgsxKjW7169cGY_GzVNZCtZJlNkoFwRygY1dSNHFTagigKsIZoJhNXMibsJL1ypI58DvefaPcJ5ms3bZgIPhfzGHgszIDa2xVcUqGwHiuIxZ5W6iRl2S4rkj7j5d65fLg0H92EkPGV_GmT8tf9UsPM1SZFSEMHS9d5ZPaUORideOeQ420HCOgmc-0CV1Laslq3YQbxhKc2h0TLVWqRfyRcpDXjw&b64e=2&sign=a9886178042679124e9e13399529f4e7&keyno=1&track=ttl
